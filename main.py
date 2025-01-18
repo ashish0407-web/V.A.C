@@ -1,3 +1,4 @@
+#voice-operated-calculator
 from vosk import Model, KaldiRecognizer
 import pyaudio
 import time
